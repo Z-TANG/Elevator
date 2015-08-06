@@ -1,0 +1,20 @@
+//function test
+(F_R,5,Up)(E_R,1)(F_R,6,Down)(E_R,3)(F_R,2,Up)(E_R,6)
+(E_R,1),(F_R,2,Up),(E_R,6),(F_R,1,Up),(F_R,5,Down),(E_R,3),(F_R,6,Down),
+(E_R,6),(F_R,3,Up),(E_R,1)(F_R,2,Down),(E_R,1),(F_R,6,Down),(E_R,4)(F_R,1,Up)
+(E_R,6),(F_R,3,  Up),  (  E_R,1)(F_R  ,2,  Down  ),(E_R,1),(F_R,6,Down),(E_R,4)(F_R,1,Up)
+//exception test
+(F_R,5,Down),(E_R,0)
+(F_R,6,Up),
+(F_R,1,Down)
+(E_R,)
+(F_R,,)
+(F_R,0,Up)
+()
+(E_R,2))
+((F_R,5,Up)
+[(E_R,3)]
+(E_a,1),(f_R,2,Up),(c,q),(F_R,1,Up),(F_R,5,Down),(E_R,3),(F_R,6,Down),
+(E_R,q)
+(F_R,/////,*)
+(F_R,5,Up)a(E_R,1)b(F_R,6,Down)c(E_R,3)(F_R,2,Up)(E_R,6)
